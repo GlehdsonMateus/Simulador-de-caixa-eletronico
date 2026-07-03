@@ -8,3 +8,51 @@ header {
 .titulocadastrar {
     font-size: 44px;
 }
+
+select {
+    width: 500px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
+
+.botao {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botaodel{
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+#dialogo {
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+#tabelaHistorico{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#tabelaHistorico th,
+#tabelaHistorico td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+#tabelaHistorico th{
+    background-color: #e0e0e0;
+}

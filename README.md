@@ -38,36 +38,4 @@ O sistema possui uma interface simples onde é possível:
 └── README.md
 ```
 
-## ▶️ Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-```
-
-2. Abra o arquivo `index.html` em qualquer navegador.
-
-Não é necessário instalar dependências.
-
-## 📚 Conceitos utilizados
-
-Durante o desenvolvimento foram utilizados conceitos como:
-
-- Arrays
-- Objetos
-- Funções
-- Manipulação do DOM
-- Eventos
-- Estruturas de repetição (`for`)
-- Estruturas condicionais (`if`)
-- Métodos de arrays (`push`, `splice`)
-- Validação de dados
-
-## 🎯 Objetivo
-
-Este projeto foi desenvolvido como atividade prática para aplicar conceitos fundamentais de JavaScript, simulando operações de um sistema bancário de forma simples e organizada.
-
-## 👨‍💻 Autor
-
 Desenvolvido por **Glehdson Mateus**.
